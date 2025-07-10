@@ -6,7 +6,6 @@ import java.time.LocalDate;
 
 @Service
 public class HomeService {
-    long date=2025;
     public String m1(){
         return "Bonjour tout le monde";
     }
